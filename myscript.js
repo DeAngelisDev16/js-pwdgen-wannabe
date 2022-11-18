@@ -6,7 +6,7 @@ console.log(firstName);
 console.log(lastName);
 console.log(favColor);
 
-document.getElementById('output').innerHTML = firstName + lastName + favColor '22';
+document.getElementById('output').innerHTML = firstName + lastName + favColor + '22';
 
 
 
