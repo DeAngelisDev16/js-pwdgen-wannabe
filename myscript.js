@@ -6,6 +6,8 @@ console.log(domandauno);
 console.log(domandadue);
 console.log(domandatre);
 
+document.getElementById('output').innerHTML = "nomecognomecolorepreferito22"
+
 
 
 
